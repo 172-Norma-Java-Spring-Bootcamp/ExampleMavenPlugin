@@ -1,0 +1,4 @@
+com\BerkeTurk\VersionBeholder.class
+com\BerkeTurk\ExecuteVersionBeholder.class
+META-INF\sisu\javax.inject.Named
+com\BerkeTurk\GitVersionMojo.class
